@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+
+
+
+#n1{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+}
+
+#n1:hover{
+    background-color: lightcoral;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px black;
+   
+}
+
+
+#n2{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+    }
+    #n2:hover{
+        background-color: lightcoral;
+        border-radius: 30px;
+        box-shadow: 3px 2px 2px black;
+       
+    }
+    
+#n3{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+}
+#n3:hover{
+    background-color: lightcoral;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px black;
+   
+}
+
+
+#n4{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+}
+#n4:hover{
+    background-color: lightcoral;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px black;
+   
+}
+
+#n5{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+}
+#n5:hover{
+    background-color: lightcoral;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px black;
+   }
+
+#n6{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+}
+#n6:hover{
+    background-color: lightcoral;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px black;
+   
+}
+
+#n7{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #000000;
+}
+#n7:hover{
+    background-color: lightcoral;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px black;
+   
+}
+
+
+#img1{
+       height: 50px;
+       width: 257px;
+       position: absolute;
+       left: 65px;
+       top: 19px;
+}
+            

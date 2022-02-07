@@ -1,0 +1,22 @@
+.data-engi-main{
+    margin-top: 100px;
+}
+
+#data-engi-img{
+    height: 450px;
+    width: 950px;
+}
+
+.data-engi-text{
+    margin-top: 30px;
+}
+
+#data-engi-h{
+   font-size: 26px;
+   margin-top: 10px;
+}
+
+#data-engi-p{
+    font-size: 18px;
+    margin-top: 8px;
+}
